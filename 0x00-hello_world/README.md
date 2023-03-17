@@ -1,9 +1,9 @@
-#0x00. C - Hello, World
+# 0x00. C - Hello, World
 
-##Learning Objectives
+## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-###General
+### General
 Why C programming is awesome
 Who invented C
 Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
