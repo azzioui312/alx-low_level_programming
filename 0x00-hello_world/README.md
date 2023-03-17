@@ -4,7 +4,7 @@
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ### General
-<br> Why C programming is awesome
+Why C programming is awesome
 <br>Who invented C
 <br> Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
 <br> What happens when you type gcc main.c
